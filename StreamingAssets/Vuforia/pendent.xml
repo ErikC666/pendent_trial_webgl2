@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="pendent" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="pendents_assembly" assemblyId="59cebe5b55e4440bbfb47dc43dccb4f4">
+<Part name="pendent" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="2.84389e-05 0.000505093 0.0557969" rotation="AD: -0.0257553 1.0194 5.10729 180.113" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="ring_test_2" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="ring_test_2s_assembly" assemblyId="f70972d7eab2444faf8ceca1c2bdf601">
+<Part name="ring_test_2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00674151 0.00413569 0.0734582" rotation="AD: 0.981846 0.687944 -0.376907 133.654" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
